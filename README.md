@@ -12,7 +12,7 @@ https://jaimelovera.github.io/2048-game-js/
 
 
 ## Motivation
-I wanted to use javascript to make a game I could play on the browser so I could share it online with friends :)
+I wanted to use JavaScript to make a game I could play on the browser so I could share it online with friends :) I decided that recreating a game would allow me to focus on the code and not get too distracted by trying to create a entirely new game. I knew this game would have various edge cases and be a challenge.
 
 ## App Info
 
