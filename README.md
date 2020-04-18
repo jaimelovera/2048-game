@@ -3,7 +3,7 @@
 > Clones the popular [2048 game](https://play2048.co/).
 
 ## Visit My Hosted Demo
-https://jaimelovera.github.io/2048-game-js/
+https://jaimelovera.github.io/2048-game/
 
 ## How To Play
 
