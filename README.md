@@ -1,4 +1,4 @@
-# 2048 Game Clone In Javascript
+# My 2048 Game Clone
 
 > Clones the popular [2048 game](https://play2048.co/).
 
