@@ -2,10 +2,6 @@
 
 > Clones the popular [2048 game](https://play2048.co/).
 
-## Visit My Live Demo
-
-https://jaimelovera.github.io/2048-game/
-
 ## How To Play
 
 > Use your arrow keys (or swipe screen) to move the tiles. When two tiles with the same number touch, they merge into one!
@@ -20,4 +16,4 @@ I wanted to use JavaScript to make a game I could play on the browser so I could
 
 ## App Info
 
-#### Author: [Jaime Lovera](https://www.jaimelovera.com/)
+#### Author: [Jaime Lovera](https://github.com/jaimelovera)
