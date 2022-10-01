@@ -1,6 +1,6 @@
 # My 2048 Game Clone
 
-Clones the popular [2048 game](https://play2048.co/).
+> Clones the popular [2048 game](https://play2048.co/).
 
 ## How To Play
 
